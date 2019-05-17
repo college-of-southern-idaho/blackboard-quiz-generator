@@ -19,7 +19,7 @@ using ICSharpCode.SharpZipLib.GZip;
 
 
 
-public class _Default : CSI_TemplatePage
+public class _Default : Page
 {
 
     protected delegate void linehandler(string line, ref XmlElement node);
@@ -65,10 +65,10 @@ public class _Default : CSI_TemplatePage
 	{
 		string result;
 		
-		result = text.Replace("“", "&#8220;");
-		result = result.Replace("”", "&#8221;");
-		result = result.Replace("‘", "&#8216;");
-		result = result.Replace("’", "&#8217;");
+		result = text.Replace("ï¿½", "&#8220;");
+		result = result.Replace("ï¿½", "&#8221;");
+		result = result.Replace("ï¿½", "&#8216;");
+		result = result.Replace("ï¿½", "&#8217;");
 
 		return result;
 	}
