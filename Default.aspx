@@ -7,7 +7,7 @@
                 <td>
                     <div style="width:600px; margin-left:auto; margin-right:auto; display:block;">
                     <h2>Blackboard Quiz Generator</h2>
-                    <p style="font-weight: bold; color: #cc3300;">The CSI Blackboard Quiz Generator is available for the  public to use free of charge. Please note that CSI transitioned from Blackboard  to Canvas in 2016 and the Quiz Generator is no longer being updated. The Quiz  Generator will, however, continue to be available on the csi.edu website for  the time being. This tool is provided as-is with no guarantee as to its  accuracy or availability, and CSI does not provide support for non-CSI  personnel. The source code for the Quiz Generator is currently not available,  but it may be offered as an open source solution in the future. If you would  like to be notified if/when it is provided via open source, please send an  email to <a href="mailto:csiwebmaster@csi.edu" style="color: #cc3300; text-decoration: underline;">csiwebmaster@csi.edu</a>.</p> 
+                    <p style="font-weight: bold; color: #cc3300;">The CSI Blackboard Quiz Generator is available for the  public to use free of charge. Please note that CSI transitioned from Blackboard  to Canvas in 2016 and the Quiz Generator is no longer being updated. This tool is provided as-is with no guarantee as to its  accuracy or availability, and CSI does not provide support for non-CSI personnel.</p> 
 					<p style="padding:0;margin:0;">(<a target="_blank" href="doc.html">Documentation</a>)</p>
                         <p>
 						Quiz Name:
